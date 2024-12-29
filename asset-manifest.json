@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/digiland/static/css/main.afb296a7.css",
+    "main.js": "/digiland/static/js/main.6194d28b.js",
+    "static/media/2.webp": "/digiland/static/media/2.81335c7d154643afd359.webp",
+    "static/media/1.gif": "/digiland/static/media/1.b1f1e66ad08c75b9ebed.gif",
+    "static/media/3.gif": "/digiland/static/media/3.a2d4f3ff50d242206417.gif",
+    "static/media/1.jpg": "/digiland/static/media/1.e291e64d03084fa5dff0.jpg",
+    "static/media/1.webp": "/digiland/static/media/1.59bfef13a468c8e437b5.webp",
+    "static/media/IRANSansXFaNum-Regular.ttf": "/digiland/static/media/IRANSansXFaNum-Regular.f4c494396040ce561ddd.ttf",
+    "static/media/3.webp": "/digiland/static/media/3.3523b4683b916149c04f.webp",
+    "static/media/5.jpeg": "/digiland/static/media/5.df5c7d32973e0c324475.jpeg",
+    "static/media/2.gif": "/digiland/static/media/2.10a97ff6dfbeebe7823d.gif",
+    "static/media/IRANSansWeb_Medium.ttf": "/digiland/static/media/IRANSansWeb_Medium.e96320d7828b1c1aeb64.ttf",
+    "static/media/3.jpeg": "/digiland/static/media/3.8910546428b5dcefad11.jpeg",
+    "static/media/2.jpeg": "/digiland/static/media/2.6697bf163f739b758602.jpeg",
+    "static/media/1.jpeg": "/digiland/static/media/1.881e7075b44dc797e4bb.jpeg",
+    "static/media/4.jpeg": "/digiland/static/media/4.0c0cf15b779ce05750f9.jpeg",
+    "static/media/6.jpeg": "/digiland/static/media/6.673dcce807e2e5d5f9f9.jpeg",
+    "static/media/1.svg": "/digiland/static/media/1.0eb6e515e088ee6d33b03a57583701cb.svg",
+    "index.html": "/digiland/index.html",
+    "main.afb296a7.css.map": "/digiland/static/css/main.afb296a7.css.map",
+    "main.6194d28b.js.map": "/digiland/static/js/main.6194d28b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afb296a7.css",
+    "static/js/main.6194d28b.js"
+  ]
+}
